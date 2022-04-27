@@ -1,0 +1,19 @@
+{D:/FPGA project/dds/vhdl_src/key_control.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {D:\FPGA project\dds\vhdl_src\key_control.vhd}
+Questa Intel Starter FPGA Edition-64 vcom 2021.2 Compiler 2021.04 Apr 14 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity key_control
+-- Compiling architecture rtl of key_control
+
+} {} {}} {D:/FPGA project/dds/vhdl_src/key_control_tb.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {D:/FPGA project/dds/vhdl_src/key_control_tb.vhd}
+Questa Intel Starter FPGA Edition-64 vcom 2021.2 Compiler 2021.04 Apr 14 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity key_control_tb
+-- Compiling architecture tb of key_control_tb
+
+} {} {}}

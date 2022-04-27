@@ -1,0 +1,747 @@
+# Compile of key_control.vhd failed with 2 errors.
+# Compile of key_control_tb.vhd failed with 2 errors.
+# 2 compiles, 2 failed with 4 errors.
+# Compile of key_control.vhd failed with 1 errors.
+# Compile of key_control_tb.vhd failed with 2 errors.
+# 2 compiles, 2 failed with 3 errors.
+# Compile of key_control.vhd failed with 1 errors.
+# Compile of key_control_tb.vhd failed with 2 errors.
+# 2 compiles, 2 failed with 3 errors.
+# Compile of key_control.vhd failed with 1 errors.
+# Compile of key_control_tb.vhd failed with 2 errors.
+# 2 compiles, 2 failed with 3 errors.
+# Compile of key_control.vhd was successful.
+# Compile of key_control_tb.vhd failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of key_control.vhd was successful.
+# Compile of key_control_tb.vhd failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of key_control.vhd was successful.
+# Compile of key_control_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of key_control.vhd was successful.
+# Compile of key_control_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of key_control.vhd was successful.
+# Compile of key_control_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -voptargs=+acc work.key_control_tb
+# vsim -voptargs="+acc" work.key_control_tb 
+# Start time: 21:13:24 on Mar 15,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.key_control_tb(tb)#1
+# Loading work.key_control(rtl)#1
+add wave sim:/key_control_tb/*
+run
+# Compile of key_control.vhd was successful.
+# Compile of key_control_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -voptargs=+acc work.key_control_tb
+# End time: 21:20:33 on Mar 15,2022, Elapsed time: 0:07:09
+# Errors: 0, Warnings: 14
+# vsim -voptargs="+acc" work.key_control_tb 
+# Start time: 21:20:33 on Mar 15,2022
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.key_control_tb(tb)#1
+# Loading work.key_control(rtl)#1
+add wave sim:/key_control_tb/*
+run
+quit -sim
+# End time: 23:13:38 on Mar 15,2022, Elapsed time: 1:53:05
+# Errors: 0, Warnings: 1
+# reading E:/intelFPGA_lite/21.1/questa_fse/win64/../modelsim.ini
+# Loading project dds_tb
+# Compile of dds.vhd failed with 41 errors.
+# Compile of dds_tb.vhd failed with 1 errors.
+# 2 compiles, 2 failed with 42 errors.
+# Compile of dds.vhd failed with 23 errors.
+# Compile of dds_tb.vhd failed with 1 errors.
+# 2 compiles, 2 failed with 24 errors.
+# Compile of dds.vhd failed with 22 errors.
+# Compile of dds_tb.vhd failed with 1 errors.
+# 2 compiles, 2 failed with 23 errors.
+# Compile of dds.vhd failed with 22 errors.
+# Compile of dds_tb.vhd failed with 1 errors.
+# 2 compiles, 2 failed with 23 errors.
+# Compile of dds.vhd failed with 22 errors.
+# Compile of dds_tb.vhd failed with 1 errors.
+# 2 compiles, 2 failed with 23 errors.
+# Compile of dds.vhd failed with 19 errors.
+# Compile of dds_tb.vhd failed with 1 errors.
+# 2 compiles, 2 failed with 20 errors.
+# Compile of dds.vhd failed with 19 errors.
+# Compile of dds_tb.vhd failed with 1 errors.
+# 2 compiles, 2 failed with 20 errors.
+# Compile of dds.vhd failed with 19 errors.
+# Compile of dds_tb.vhd failed with 1 errors.
+# 2 compiles, 2 failed with 20 errors.
+# Compile of dds.vhd failed with 1 errors.
+# Compile of dds_tb.vhd failed with 1 errors.
+# 2 compiles, 2 failed with 2 errors.
+# Compile of dds.vhd failed with 1 errors.
+# Compile of dds_tb.vhd failed with 1 errors.
+# 2 compiles, 2 failed with 2 errors.
+# Compile of dds.vhd was successful with warnings.
+# Compile of dds_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of dds.vhd was successful with warnings.
+# Compile of dds_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of dds.vhd was successful with warnings.
+# Compile of dds_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of dds.vhd was successful with warnings.
+# Compile of dds_tb.vhd failed with 17 errors.
+# 2 compiles, 1 failed with 17 errors.
+# Compile of dds.vhd was successful with warnings.
+# Compile of dds_tb.vhd failed with 7 errors.
+# 2 compiles, 1 failed with 7 errors.
+# Compile of dds.vhd was successful with warnings.
+# Compile of dds_tb.vhd failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of dds.vhd was successful with warnings.
+# Compile of dds_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -voptargs=+acc work.dds_tb -Lf altera_mf
+# vsim -voptargs="+acc" work.dds_tb -Lf altera_mf 
+# Start time: 00:06:26 on Mar 16,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: D:/FPGA project/dds_vhdl/vhdl_src/dds.vhd(33): (vopt-3473) Component instance "rw : rom_wave" is not bound.
+#         Region: /dds_tb/dut
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=1.
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.dds_tb(rtl)#1
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.dds(rtl)#1
+# ** Warning: (vsim-3473) Component instance "rw : rom_wave" is not bound.
+#    Time: 0 ns  Iteration: 0  Instance: /dds_tb/dut File: D:/FPGA project/dds_vhdl/vhdl_src/dds.vhd
+# ** Warning: (vsim-8684) No drivers exist on out port /dds_tb/dut/data_out, and its initial value is not used.
+# Therefore, simulation behavior may occur that is not in compliance with
+# the VHDL standard as the initial values come from the base signal /dds_tb/data_out.
+add wave sim:/dds_tb/*
+run
+# ** Fatal: (vsim-3483) Delay in signal assignment is not ascending.
+#    Time: 0 ns  Iteration: 0  Process: /dds_tb/line__28 File: D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd Line: 32
+# Fatal error in Architecture rtl at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd line 32
+# 
+# HDL call sequence:
+# Stopped at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd 32 Architecture rtl
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd 32 Architecture rtl
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd 32 Architecture rtl
+# 
+quit -sim
+# End time: 00:09:15 on Mar 16,2022, Elapsed time: 0:02:49
+# Errors: 1, Warnings: 24
+# Compile of dds.vhd was successful with warnings.
+# Compile of dds_tb.vhd was successful.
+# Compile of rom_wave.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -voptargs=+acc -Lf altera_mf work.dds work.dds_tb work.rom_wave
+# vsim -voptargs="+acc" -Lf altera_mf work.dds work.dds_tb work.rom_wave 
+# Start time: 00:10:43 on Mar 16,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.dds(rtl)#1
+# Loading work.dds_tb(rtl)#1
+# Loading altera_mf.altera_mf_components
+# Loading work.rom_wave(syn)#1
+# Loading work.rom_wave(syn)#2
+# Loading altera_mf.altera_common_conversion(body)
+# Loading altera_mf.altera_device_families(body)
+# Loading altera_mf.altsyncram(translated)#1
+add wave sim:/dds/*
+run
+# ** Fatal: (vsim-3483) Delay in signal assignment is not ascending.
+#    Time: 0 ns  Iteration: 0  Process: /dds_tb/line__28 File: D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd Line: 32
+# Fatal error in Architecture rtl at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd line 32
+# 
+# HDL call sequence:
+# Stopped at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd 32 Architecture rtl
+# 
+add wave sim:/dds_tb/*
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd 32 Architecture rtl
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd 32 Architecture rtl
+# 
+vsim -voptargs=+acc work.dds_tb
+# End time: 00:15:35 on Mar 16,2022, Elapsed time: 0:04:52
+# Errors: 1, Warnings: 3
+# vsim -voptargs="+acc" work.dds_tb 
+# Start time: 00:15:35 on Mar 16,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.dds_tb(rtl)#1
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.dds(rtl)#1
+# Loading altera_mf.altera_mf_components
+# Loading work.rom_wave(syn)#1
+# Loading altera_mf.altera_common_conversion(body)
+# Loading altera_mf.altera_device_families(body)
+# Loading altera_mf.altsyncram(translated)#1
+add wave sim:/dds_tb/*
+run
+# ** Fatal: (vsim-3483) Delay in signal assignment is not ascending.
+#    Time: 0 ns  Iteration: 0  Process: /dds_tb/line__28 File: D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd Line: 32
+# Fatal error in Architecture rtl at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd line 32
+# 
+# HDL call sequence:
+# Stopped at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd 32 Architecture rtl
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd 32 Architecture rtl
+# 
+quit -sim
+# End time: 10:17:09 on Mar 16,2022, Elapsed time: 10:01:34
+# Errors: 1, Warnings: 1
+# Compile of key_control.vhd failed with 1 errors.
+# Compile of key_control_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of key_control.vhd was successful.
+# Compile of key_control_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -voptargs=+acc work.key_control_tb
+# vsim -voptargs="+acc" work.key_control_tb 
+# Start time: 10:24:20 on Mar 16,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.key_control_tb(tb)#1
+# Loading work.key_control(rtl)#1
+add wave sim:/key_control_tb/*
+run
+# Compile of key_control.vhd was successful.
+# Compile of key_control_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -voptargs=+acc work.key_control_tb
+# End time: 10:29:19 on Mar 16,2022, Elapsed time: 0:04:59
+# Errors: 0, Warnings: 7
+# vsim -voptargs="+acc" work.key_control_tb 
+# Start time: 10:29:19 on Mar 16,2022
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.key_control_tb(tb)#1
+# Loading work.key_control(rtl)#1
+add wave sim:/key_control_tb/*
+run
+# Compile of key_control.vhd was successful.
+# Compile of key_control_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -voptargs=+acc work.key_control_tb
+# End time: 10:35:24 on Mar 16,2022, Elapsed time: 0:06:05
+# Errors: 0, Warnings: 2
+# vsim -voptargs="+acc" work.key_control_tb 
+# Start time: 10:35:24 on Mar 16,2022
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.key_control_tb(tb)#1
+# Loading work.key_control(rtl)#1
+add wave sim:/key_control_tb/*
+run
+quit -sim
+# End time: 12:30:26 on Mar 16,2022, Elapsed time: 1:55:02
+# Errors: 0, Warnings: 1
+# Error 31: Unable to unlink file "D:/FPGA project/dds_vhdl/dds_tb/work/@_opt/_lib.qdb".
+# Error 31: Unable to unlink file "D:/FPGA project/dds_vhdl/dds_tb/work/@_opt/_lib3_0.qdb".
+# Error 31: Unable to unlink file "D:/FPGA project/dds_vhdl/dds_tb/work/@_opt/_lib3_0.qpg".
+# Error 31: Unable to unlink file "D:/FPGA project/dds_vhdl/dds_tb/work/@_opt/_lib3_0.qtl".
+# Error 133: Unable to remove directory "D:/FPGA project/dds_vhdl/dds_tb/work/@_opt".
+# Compile of key_control.vhd was successful.
+# Compile of key_control_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of dds.vhd was successful with warnings.
+# Compile of dds_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -voptargs=+acc work.dds_tb -Lf altera_mf
+# vsim -voptargs="+acc" work.dds_tb -Lf altera_mf 
+# Start time: 12:32:44 on Mar 16,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: (vopt-31) Unable to unlink file "D:/FPGA project/dds_vhdl/dds_tb/work/@_opt/_lib3_0.qpg".
+# ** Warning: (vopt-31) Unable to unlink file "D:/FPGA project/dds_vhdl/dds_tb/work/@_opt/_lib3_0.qtl".
+# The process cannot access the file because it is being used by another process. (GetLastError() = 32)
+# ** Warning: (vopt-133) Unable to remove directory "D:/FPGA project/dds_vhdl/dds_tb/work/@_opt".
+# ** Warning: D:/FPGA project/dds_vhdl/vhdl_src/dds.vhd(68): (vopt-3473) Component instance "rw : rom_wave" is not bound.
+#         Region: /dds_tb/dut
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=4.
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.dds_tb(rtl)#1
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.dds(rtl)#1
+# ** Warning: (vsim-3473) Component instance "rw : rom_wave" is not bound.
+#    Time: 0 ns  Iteration: 0  Instance: /dds_tb/dut File: D:/FPGA project/dds_vhdl/vhdl_src/dds.vhd
+add wave sim:/dds_tb/*
+run
+# ** Fatal: (vsim-3483) Delay in signal assignment is not ascending.
+#    Time: 0 ns  Iteration: 0  Process: /dds_tb/line__28 File: D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd Line: 32
+# Fatal error in Architecture rtl at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd line 32
+# 
+# HDL call sequence:
+# Stopped at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd 32 Architecture rtl
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd 32 Architecture rtl
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd 32 Architecture rtl
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd 32 Architecture rtl
+# 
+# ** Error: (vdel-134) Unable to remove locked optimized design "_opt".  Locker is Zack CHEN@LAPTOP-LOL77Q03.
+# E:/intelFPGA_lite/21.1/questa_fse/win64/vdel failed.
+# Compile of dds.v was successful.
+# Compile of dds_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -voptargs=+acc -Lf altera_mf_ver work.dds work.dds_tb
+# End time: 12:37:45 on Mar 16,2022, Elapsed time: 0:05:01
+# Errors: 1, Warnings: 17
+# vsim -voptargs="+acc" -Lf altera_mf_ver work.dds work.dds_tb 
+# Start time: 12:37:45 on Mar 16,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: D:/FPGA project/dds/verilog_src/dds.v(75): Module 'rom_wave' is not defined.
+#  For instance 'rom_wave_inst' at path 'dds_tb.dds_inst'
+# ** Error: D:/FPGA project/dds/verilog_src/dds.v(75): Module 'rom_wave' is not defined.
+#  For instance 'rom_wave_inst' at path 'dds'
+# Optimization failed
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=2, Warnings=0.
+# Error loading design
+# End time: 12:37:46 on Mar 16,2022, Elapsed time: 0:00:01
+# Errors: 2, Warnings: 1
+# Compile of dds.v was successful.
+# Compile of dds_tb.v was successful.
+# Compile of rom_wave.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -voptargs=+acc -Lf altera_mf_ver work.dds_tb
+# vsim -voptargs="+acc" -Lf altera_mf_ver work.dds_tb 
+# Start time: 12:40:57 on Mar 16,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading work.dds_tb(fast)
+# Loading work.dds(fast)
+# Loading work.rom_wave(fast)
+# Loading altera_mf_ver.altsyncram(fast)
+# Loading altera_mf_ver.altsyncram_body(fast)
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES(fast)
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION(fast)
+add wave sim:/dds_tb/*
+run
+# Compile of dds.v was successful.
+# Compile of dds_tb.v was successful.
+# Compile of rom_wave.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -voptargs=+acc -Lf altera_mf_ver work.dds_tb
+# End time: 14:02:31 on Mar 16,2022, Elapsed time: 1:21:34
+# Errors: 0, Warnings: 4
+# vsim -voptargs="+acc" -Lf altera_mf_ver work.dds_tb 
+# Start time: 14:02:31 on Mar 16,2022
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading work.dds_tb(fast)
+# Loading work.dds(fast)
+# Loading work.rom_wave(fast)
+# Loading altera_mf_ver.altsyncram(fast)
+# Loading altera_mf_ver.altsyncram_body(fast)
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES(fast)
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION(fast)
+add wave sim:/dds_tb/*
+run
+run
+run
+run
+quit -sim
+# End time: 14:12:04 on Mar 16,2022, Elapsed time: 0:09:33
+# Errors: 0, Warnings: 1
+vsim -voptargs=+acc -Lf altera_mf_ver work.dds work.dds_tb work.rom_wave
+# vsim -voptargs="+acc" -Lf altera_mf_ver work.dds work.dds_tb work.rom_wave 
+# Start time: 14:12:24 on Mar 16,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading work.dds(fast)
+# Loading work.rom_wave(fast__1)
+# Loading altera_mf_ver.altsyncram(fast)
+# Loading altera_mf_ver.altsyncram_body(fast)
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES(fast)
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION(fast)
+# Loading work.dds_tb(fast)
+# Loading work.dds(fast__1)
+# Loading work.rom_wave(fast)
+add wave sim:/dds/*
+run
+add wave -position insertpoint  \
+sim:/dds/data_out
+run
+vsim -voptargs=+acc -Lf altera_mf_ver work.dds work.dds_tb
+# End time: 14:13:42 on Mar 16,2022, Elapsed time: 0:01:18
+# Errors: 0, Warnings: 1
+# vsim -voptargs="+acc" -Lf altera_mf_ver work.dds work.dds_tb 
+# Start time: 14:13:42 on Mar 16,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading work.dds(fast)
+# Loading work.rom_wave(fast)
+# Loading altera_mf_ver.altsyncram(fast)
+# Loading altera_mf_ver.altsyncram_body(fast)
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES(fast)
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION(fast)
+# Loading work.dds_tb(fast)
+# Loading work.dds(fast__1)
+add wave sim:/dds/*
+run
+vsim -voptargs=+acc -Lf altera_mf_ver work.dds_tb
+# End time: 14:15:57 on Mar 16,2022, Elapsed time: 0:02:15
+# Errors: 0, Warnings: 1
+# vsim -voptargs="+acc" -Lf altera_mf_ver work.dds_tb 
+# Start time: 14:15:57 on Mar 16,2022
+# ** Note: (vsim-8009) Loading existing optimized design _opt1
+# Loading work.dds_tb(fast)
+# Loading work.dds(fast)
+# Loading work.rom_wave(fast)
+# Loading altera_mf_ver.altsyncram(fast)
+# Loading altera_mf_ver.altsyncram_body(fast)
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES(fast)
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION(fast)
+add wave sim:/dds_tb/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave sim:/dds_tb/*
+run
+quit -sim
+# End time: 14:24:16 on Mar 16,2022, Elapsed time: 0:08:19
+# Errors: 0, Warnings: 1
+# Compile of dds.v was successful.
+# Compile of dds_tb.v was successful.
+# Compile of rom_wave.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -voptargs=+acc -Lf altera_mf_ver work.dds_tb
+# vsim -voptargs="+acc" -Lf altera_mf_ver work.dds_tb 
+# Start time: 14:24:35 on Mar 16,2022
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading work.dds_tb(fast)
+# Loading work.dds(fast)
+# Loading work.rom_wave(fast)
+# Loading altera_mf_ver.altsyncram(fast)
+# Loading altera_mf_ver.altsyncram_body(fast)
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES(fast)
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION(fast)
+add wave sim:/dds_tb/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 14:28:30 on Mar 16,2022, Elapsed time: 0:03:55
+# Errors: 0, Warnings: 2
+# Compile of dds.v was successful.
+# Compile of dds_tb.v was successful.
+# Compile of rom_wave.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -voptargs=+acc -Lf altera_mf_ver work.dds_tb
+# vsim -voptargs="+acc" -Lf altera_mf_ver work.dds_tb 
+# Start time: 14:28:50 on Mar 16,2022
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading work.dds_tb(fast)
+# Loading work.dds(fast)
+# Loading work.rom_wave(fast)
+# Loading altera_mf_ver.altsyncram(fast)
+# Loading altera_mf_ver.altsyncram_body(fast)
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES(fast)
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION(fast)
+add wave sim:/dds_tb/*
+run
+run
+quit -sim
+# End time: 14:31:39 on Mar 16,2022, Elapsed time: 0:02:49
+# Errors: 0, Warnings: 2
+# Compile of dds.v was successful.
+# Compile of dds_tb.v was successful.
+# Compile of rom_wave.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -voptargs=+acc -Lf altera_mf_ver work.dds_tb
+# vsim -voptargs="+acc" -Lf altera_mf_ver work.dds_tb 
+# Start time: 14:32:42 on Mar 16,2022
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading work.dds_tb(fast)
+# Loading work.dds(fast)
+# Loading work.rom_wave(fast)
+# Loading altera_mf_ver.altsyncram(fast)
+# Loading altera_mf_ver.altsyncram_body(fast)
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES(fast)
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION(fast)
+add wave sim:/dds_tb/*
+run
+run
+quit -sim
+# End time: 14:36:12 on Mar 16,2022, Elapsed time: 0:03:30
+# Errors: 0, Warnings: 2
+# Compile of dds.v was successful.
+# Compile of dds_tb.v was successful.
+# Compile of rom_wave.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -voptargs=+acc -Lf altera_mf_ver work.dds_tb
+# vsim -voptargs="+acc" -Lf altera_mf_ver work.dds_tb 
+# Start time: 14:36:41 on Mar 16,2022
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading work.dds_tb(fast)
+# Loading work.dds(fast)
+# Loading work.rom_wave(fast)
+# Loading altera_mf_ver.altsyncram(fast)
+# Loading altera_mf_ver.altsyncram_body(fast)
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES(fast)
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION(fast)
+add wave sim:/dds_tb/*
+run
+# Compile of dds.v was successful.
+# Compile of dds_tb.v was successful.
+# Compile of rom_wave.v was successful.
+# 3 compiles, 0 failed with no errors.
+quit -sim
+# End time: 14:45:15 on Mar 16,2022, Elapsed time: 0:08:34
+# Errors: 0, Warnings: 3
+# Compile of dds.vhd was successful with warnings.
+# Compile of dds_tb.vhd was successful.
+# Compile of rom_wave.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+# Compile of dds.vhd was successful with warnings.
+# Compile of dds_tb.vhd was successful.
+# Compile of rom_wave.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -voptargs=+acc -Lf altera_mf work.dds_tb
+# vsim -voptargs="+acc" -Lf altera_mf work.dds_tb 
+# Start time: 14:46:45 on Mar 16,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.dds_tb(rtl)#1
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.dds(rtl)#1
+# Loading altera_mf.altera_mf_components
+# Loading work.rom_wave(syn)#1
+# Loading altera_mf.altera_common_conversion(body)
+# Loading altera_mf.altera_device_families(body)
+# Loading altera_mf.altsyncram(translated)#1
+# ** Warning: (vsim-3479) Time unit 'ps' is less than the simulator resolution (1ns).
+#    Time: 0 ns  Iteration: 0  Root: /
+add wave sim:/dds_tb/*
+run
+# ** Fatal: (vsim-3483) Delay in signal assignment is not ascending.
+#    Time: 0 ns  Iteration: 0  Process: /dds_tb/line__22 File: D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd Line: 26
+# Fatal error in Architecture rtl at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd line 26
+# 
+# HDL call sequence:
+# Stopped at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd 26 Architecture rtl
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd 26 Architecture rtl
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd 26 Architecture rtl
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd 26 Architecture rtl
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd 26 Architecture rtl
+# 
+vsim -voptargs=+acc -Lf altera_mf -Lf altera_mf_ver work.dds_tb
+# End time: 14:49:02 on Mar 16,2022, Elapsed time: 0:02:17
+# Errors: 1, Warnings: 7
+# vsim -voptargs="+acc" -Lf altera_mf -Lf altera_mf_ver work.dds_tb 
+# Start time: 14:49:02 on Mar 16,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.dds_tb(rtl)#1
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.dds(rtl)#1
+# Loading altera_mf.altera_mf_components
+# Loading work.rom_wave(syn)#1
+# Loading altera_mf.altera_common_conversion(body)
+# Loading altera_mf.altera_device_families(body)
+# Loading altera_mf.altsyncram(translated)#1
+# ** Warning: (vsim-3479) Time unit 'ps' is less than the simulator resolution (1ns).
+#    Time: 0 ns  Iteration: 0  Root: /
+add wave sim:/dds_tb/*
+run
+# ** Fatal: (vsim-3483) Delay in signal assignment is not ascending.
+#    Time: 0 ns  Iteration: 0  Process: /dds_tb/line__22 File: D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd Line: 26
+# Fatal error in Architecture rtl at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd line 26
+# 
+# HDL call sequence:
+# Stopped at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd 26 Architecture rtl
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd 26 Architecture rtl
+# 
+step
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd 26 Architecture rtl
+# 
+step
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd 26 Architecture rtl
+# 
+step
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd 26 Architecture rtl
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd 26 Architecture rtl
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd 26 Architecture rtl
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd 26 Architecture rtl
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at D:/FPGA project/dds_vhdl/vhdl_src/dds_tb.vhd 26 Architecture rtl
+# 
+vsim -voptargs=+acc altera_mf.altsyncram
+# End time: 15:05:21 on Mar 16,2022, Elapsed time: 0:16:19
+# Errors: 1, Warnings: 2
+# vsim -voptargs="+acc" altera_mf.altsyncram 
+# Start time: 15:05:21 on Mar 16,2022
+# ** Error: (vsim-1962) Can't create implicit optimized design in non-writable library E:/intelFPGA_lite/21.1/questa_fse/intel/vhdl/altera_mf.
+# Permission denied. (errno = EACCES)
+# Loading std.standard
+# ** Warning: (vsim-7) Failed to open lock file "E:/intelFPGA_lite/21.1/questa_fse/intel/vhdl/altera_mf/_lock" in create mode.
+# Permission denied. (errno = EACCES)
+# -- Cannot create lockfile "E:/intelFPGA_lite/21.1/questa_fse/intel/vhdl/altera_mf/_lock".
+# End time: 15:05:32 on Mar 16,2022, Elapsed time: 0:00:11
+# Errors: 1, Warnings: 1

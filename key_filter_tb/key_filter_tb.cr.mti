@@ -1,0 +1,21 @@
+{D:/FPGA project/dds/vhdl_src/key_filter.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {D:/FPGA project/dds/vhdl_src/key_filter.vhd}
+Questa Intel Starter FPGA Edition-64 vcom 2021.2 Compiler 2021.04 Apr 14 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity key_filter
+-- Compiling architecture behav of key_filter
+
+} {} {}} {D:/FPGA project/dds/vhdl_src/key_filter_tb.vhd} {2 {vcom -work work -2002 -explicit -vopt -stats=none {D:/FPGA project/dds/vhdl_src/key_filter_tb.vhd}
+Questa Intel Starter FPGA Edition-64 vcom 2021.2 Compiler 2021.04 Apr 14 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity key_filter_tb
+-- Compiling architecture behavior of key_filter_tb
+** Warning: D:/FPGA project/dds/vhdl_src/key_filter_tb.vhd(36): (vcom-1624) Component instance key_filter_tb(behavior).uut has a generic map clause and the component key_filter has no generics.
+Generic map will be ignored.
+
+} {} {}}

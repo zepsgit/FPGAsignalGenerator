@@ -1,0 +1,124 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+!s11e vcom 2021.2 2021.04, Apr 14 2021
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/intelFPGA_lite/21.1
+T_opt
+!s110 1647387155
+VcIQ2;RIn>TE0m9fZY[C?Y3
+04 13 8 work key_filter_tb behavior 1
+=1-085bd6b7ad95-62312212-36a-a848
+!s124 OEM10U2 
+o-quiet -auto_acc_if_foreign -work work +acc
+tCvgOpt 0
+n@_opt
+OL;O;2021.2;73
+Ekey_filter
+Z1 w1647381399
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+Z5 dD:/FPGA project/dds/key_filter_tb
+Z6 8D:/FPGA project/dds/vhdl_src/key_filter.vhd
+Z7 FD:/FPGA project/dds/vhdl_src/key_filter.vhd
+l0
+L5 1
+VLFFm;R9X`Q;ZFPH^zMzg[2
+!s100 EJOEQ^52B>c:f3F5E5SOg3
+Z8 OL;C;2021.2;73
+32
+Z9 !s110 1647387147
+!i10b 1
+Z10 !s108 1647387147.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/FPGA project/dds/vhdl_src/key_filter.vhd|
+Z12 !s107 D:/FPGA project/dds/vhdl_src/key_filter.vhd|
+!i113 0
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Abehav
+R2
+R3
+R4
+DEx4 work 10 key_filter 0 22 LFFm;R9X`Q;ZFPH^zMzg[2
+!i122 0
+l26
+L14 43
+VoYgJP9a;EVCdlE^T<ENRX2
+!s100 RNAh9CW@gSmRjQomaiG@J2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+Ekey_filter_tb
+Z15 w1647381457
+R2
+R3
+R4
+!i122 1
+R5
+Z16 8D:/FPGA project/dds/vhdl_src/key_filter_tb.vhd
+Z17 FD:/FPGA project/dds/vhdl_src/key_filter_tb.vhd
+l0
+L5 1
+VO3FT<RASnl<V5YF;[:62U0
+!s100 k8X]m<biGK>ZClYNQm43<1
+R8
+32
+R9
+!i10b 1
+R10
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/FPGA project/dds/vhdl_src/key_filter_tb.vhd|
+Z19 !s107 D:/FPGA project/dds/vhdl_src/key_filter_tb.vhd|
+!i113 0
+R13
+R14
+Abehavior
+R2
+R3
+R4
+DEx4 work 13 key_filter_tb 0 22 O3FT<RASnl<V5YF;[:62U0
+!i122 1
+l33
+L8 70
+VP;24DJ5P8JP8fRGWBD9SR0
+!s100 A8=HeOh1hWGSdAEW>HadX3
+R8
+32
+R9
+!i10b 1
+R10
+R18
+R19
+!i113 0
+R13
+R14
